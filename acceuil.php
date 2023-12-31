@@ -53,13 +53,36 @@
             <button class="btn-navig">COULEURS</button>
             <button class="btn-navig">MARQUES</button>
             <button class="btn-navig">TYPES</button>
-            <button class="btn-navig">PRIX</button>
-            
+            <button class="btn-navig">PRIX</button> 
         </div>
 
         <div class="acceuil">  
             <p class="titre">Nouveautes<br> costumes surmesure<br> a la mode</p>
             <button class="btn-change" onclick="window.location.href ='contact.html'">DECOUVRIR</button>
+        </div>
+
+        <div class="bottom-content">
+            <div class="block-left">
+                <p>
+                <button class="navig" onclick="window.location.href ='contact.html'">HOMME</button>
+                <button class="navig" onclick="window.location.href ='contact.html'">FEMME</button>
+                <button class="navig" onclick="window.location.href ='contact.html'">ENFANT</button>
+
+                </p>
+ 
+            </div>
+            <div class="block-center">
+
+            </div>
+
+            <div class="block-right">
+
+            </div>
+
+            <div class="block-left">
+
+            </div>
+
         </div>
 
     </div>
